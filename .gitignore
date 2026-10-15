@@ -1,0 +1,9 @@
+# Personal data: each user builds their own
+results/
+bookmarks.json
+
+__pycache__/
+
+# Papers not shipped
+papers/Mock_Exam_2.md
+papers/Option_Design_Trial_10Q.md
